@@ -2,4 +2,4 @@
 
 ## Analysis of cloud services for designing IoT applications
 
-### объектом исследования являются облачные сервисы Google IoT Core и Azure IoT Suite, и использование их возможностей для создания IoT-приложений. Так же анализируется API, предоставляемое для разработки приложений под конкретную платформу от конкретного сервиса.
+### The object of research is the cloud services Google IoT core and Azure IoT suite and the usage of their capabilities for IoT applications creation. We also analyze the API provided for developing applications for a specific platform from a specific service.
