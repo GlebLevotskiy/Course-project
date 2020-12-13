@@ -1,5 +1,5 @@
 # Course-project
 
-### Analysis of cloud services for designing IoT applications
+## Analysis of cloud services for designing IoT applications
 
-For more info you can view wiki.
+### объектом исследования являются облачные сервисы Google IoT Core и Azure IoT Suite, и использование их возможностей для создания IoT-приложений. Так же анализируется API, предоставляемое для разработки приложений под конкретную платформу от конкретного сервиса.
